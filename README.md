@@ -2,11 +2,11 @@
  
 ## Sobre o Projeto
 
-O **[Nome do Projeto]** é um sistema desenvolvido com o objetivo de [descrever o problema que o projeto resolve].
+O **ACD** é um sistema desenvolvido com o objetivo de desenvolver um sistema de gestão inteligente de áreas de carga e descarga.
 
 Este projeto está sendo desenvolvido na disciplina **Fábrica de Projetos Ágeis III**, do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco na aplicação prática de conceitos de desenvolvimento de software e metodologias ágeis.
 
-A proposta consiste em criar uma solução que permita [explicar de forma objetiva a principal funcionalidade do sistema], garantindo organização, escalabilidade e boas práticas de desenvolvimento.
+A proposta consiste em criar uma solução que permita gerenciar áreas de carga e descarga, garantindo organização e monitoramento da cidade. Evitando prováveis congestionamentos de trânsito.
 
 ---
 
@@ -48,7 +48,7 @@ Responsável pela interface e experiência do usuário.
 - [Tecnologia a definir]
 - [Tecnologia a definir]
 
-Responsáveis: [Nome(s) dos integrantes]
+Responsáveis: André Luis, Gustavo Alves e Felipe Stuque.
 
 ---
 
@@ -59,7 +59,7 @@ Responsável pela lógica de negócio, regras do sistema e integração com o ba
 - [Tecnologia a definir]
 - [Framework a definir]
 
-Responsáveis: [Nome(s) dos integrantes]
+Responsáveis: Lucas Vitor e Giovani Pomilio.
 
 ---
 
@@ -69,7 +69,7 @@ Responsável pelo armazenamento, modelagem e manipulação dos dados do sistema.
 
 - [Tecnologia a definir]
 
-Responsáveis: [Nome(s) dos integrantes]
+Responsáveis: Filipe Damasio.
 
 ---
 
@@ -79,7 +79,7 @@ Responsável pela construção de protótipos, fluxos de navegação e identidad
 
 - [Ferramenta a definir]
 
-Responsáveis: [Nome(s) dos integrantes]
+Responsáveis: Gustavo Alves e Felipe Stuque.
 
 ---
 
