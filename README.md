@@ -76,7 +76,7 @@ Responsáveis: Filipe Damasio.
 
 Responsável pela construção de protótipos, fluxos de navegação e identidade visual.
 
-- [Ferramenta a definir]
+- Figma e Canva
 
 Responsáveis: Gustavo Alves e Felipe Stuque.
 
