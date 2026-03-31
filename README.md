@@ -44,8 +44,7 @@ As tecnologias e ferramentas abaixo serão utilizadas no desenvolvimento do proj
 
 Responsável pela interface e experiência do usuário.
 
-- HTML
-- Tailwind css
+- Vue.js
 
 Responsáveis: André Luis e Gustavo Alves.
 
